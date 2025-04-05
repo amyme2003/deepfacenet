@@ -12,7 +12,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 cryptography==44.0.2
 deepface==0.0.93
-dlib==19.24.6
+#dlib==19.24.6
 fastapi==0.115.12
 filelock==3.18.0
 fire==0.7.0
